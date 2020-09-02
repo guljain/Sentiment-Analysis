@@ -3,8 +3,11 @@ This repo consists of Sentiment Analysis and EDA on Movie Reviews by NLTK Data.
 
 [NOTEBOOK](https://nbviewer.jupyter.org/github/guljain/Sentiment-Analysis/blob/master/Notebook.ipynb)
 
+![image](https://drive.google.com/uc?export=view&id=1JWoF3K_X2PRwAGFbMceiRW5KdH5CSIc0)
+![image](https://drive.google.com/uc?export=view&id=1ZzsoK1JgeWiWTkO2i4XU00pX7bhczSc3)
+![image](https://drive.google.com/uc?export=view&id=1JawnQvWzju2ggPw7wrG3D1idwcdkfmSt)
 
-IMAGES : 
+
 
 # Data 
 Link to data is [Here](https://drive.google.com/drive/folders/1w2INX9wxHJ-jtEN2UcKUni4Qri3xqzJS?usp=sharing)
