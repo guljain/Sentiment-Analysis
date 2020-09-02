@@ -8,7 +8,6 @@ This repo consists of Sentiment Analysis and EDA on Movie Reviews by NLTK Data.
 ![image](https://drive.google.com/uc?export=view&id=1JawnQvWzju2ggPw7wrG3D1idwcdkfmSt)
 
 
-
 # Data 
 Link to data is [Here](https://drive.google.com/drive/folders/1w2INX9wxHJ-jtEN2UcKUni4Qri3xqzJS?usp=sharing)
 
